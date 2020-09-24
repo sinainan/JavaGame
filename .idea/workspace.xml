@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7e9ee42-0ad7-47e4-a939-4653a5b551a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/Game/Window.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/Game/Window.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/META-INF/Sokoban-project.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/blocks/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/blocks/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/blocks/boxOff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/blocks/boxOn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/blocks/ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/blocks/ground2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/blocks/outline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/blocks/outline2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/blocks/redBrick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/blocks/spot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/fonts/mario.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/fonts/mario.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/29.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/levels/9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/levels/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/player/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/player/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/player/achter.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/player/achter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/player/back.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/player/back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/player/front.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/player/front.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/player/left.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/player/left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/player/links.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/player/links.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/player/playerFace.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/player/playerFace.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/player/rechts.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/player/rechts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/player/right.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/player/right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-project/player/voor.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sokoban-project/player/voor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Sokoban-project/Game/WindowTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Sokoban-project/META-INF/Sokoban-project.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Sokoban-project/unit/GameSokobanTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/blocks/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/res/blocks/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/blocks/boxOff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/blocks/boxOn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/blocks/ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/blocks/ground2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/blocks/outline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/blocks/outline2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/blocks/redBrick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/blocks/spot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/fonts/mario.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/res/fonts/mario.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/29.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/player/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/res/player/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/player/achter.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/player/achter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/player/back.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/player/back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/player/front.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/player/front.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/player/left.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/player/left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/player/links.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/player/links.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/player/playerFace.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/player/playerFace.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/player/rechts.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/player/rechts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/player/right.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/player/right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/player/voor.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/player/voor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Game/WindowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/unit/GameSokobanTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pelermove.gloRow</find>
+      <find>playerfront</find>
+      <find>gamesta</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1huohp3Stse7KPzIdc5Fqc6WJpC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583484036214" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project4HHSs" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Game" />
+      <recent name="unit" />
+      <recent name="ui" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/levels" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Window">
+    <configuration name="Window" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game.Window" />
+      <module name="Sokoban-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameSokobanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sokoban-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unit" />
+      <option name="MAIN_CLASS_NAME" value="unit.GameSokobanTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sokoban-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Game" />
+      <option name="MAIN_CLASS_NAME" value="Game.WindowTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowTest.testRunning" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sokoban-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Game" />
+      <option name="MAIN_CLASS_NAME" value="Game.WindowTest" />
+      <option name="METHOD_NAME" value="testRunning" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowTest.testwindow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sokoban-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Game" />
+      <option name="MAIN_CLASS_NAME" value="Game.WindowTest" />
+      <option name="METHOD_NAME" value="testwindow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Window" />
+        <item itemvalue="JUnit.WindowTest" />
+        <item itemvalue="JUnit.WindowTest.testwindow" />
+        <item itemvalue="JUnit.WindowTest.testRunning" />
+        <item itemvalue="JUnit.GameSokobanTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7e9ee42-0ad7-47e4-a939-4653a5b551a4" name="Default Changelist" comment="" />
+      <created>1553255177971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553255177971</updated>
+      <workItem from="1553255182690" duration="5263000" />
+      <workItem from="1553764702174" duration="58491000" />
+      <workItem from="1554370674514" duration="1491000" />
+      <workItem from="1555056659224" duration="7476000" />
+      <workItem from="1555410911509" duration="108000" />
+      <workItem from="1600870462791" duration="287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GameSokobanTest - 2019.04.03 at 12h 04m 21s.xml">
+      <configuration name="GameSokobanTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameSokobanTest - 2019.04.03 at 13h 09m 13s.xml">
+      <configuration name="GameSokobanTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameSokobanTest_test3 - 2019.04.04 at 09h 04m 07s.xml">
+      <configuration name="GameSokobanTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameSokobanTest_test3 - 2019.04.04 at 09h 29m 38s.xml">
+      <configuration name="GameSokobanTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameSokobanTest_test3 - 2019.04.04 at 09h 32m 22s.xml">
+      <configuration name="GameSokobanTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameSokobanTest_test3 - 2019.04.04 at 09h 33m 32s.xml">
+      <configuration name="GameSokobanTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameSokobanTest - 2019.04.04 at 09h 34m 20s.xml">
+      <configuration name="GameSokobanTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WindowTest_testRunning - 2019.04.04 at 11h 17m 49s.xml">
+      <configuration name="WindowTest.testRunning" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WindowTest_testwindow - 2019.04.04 at 11h 30m 11s.xml">
+      <configuration name="WindowTest.testwindow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WindowTest - 2019.04.04 at 11h 32m 17s.xml">
+      <configuration name="WindowTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1600870748027">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.1080.1368.897/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1600870748027" />
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom" timestamp="1600870749359">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom/0.1080.1368.897/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1600870749359" />
+    <state width="1877" height="267" key="GridCell.Tab.0.center" timestamp="1600870749358">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.center/0.1080.1368.897/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1600870749358" />
+    <state width="1877" height="267" key="GridCell.Tab.0.left" timestamp="1600870749358">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.left/0.1080.1368.897/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1600870749358" />
+    <state width="1877" height="267" key="GridCell.Tab.0.right" timestamp="1600870749359">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.right/0.1080.1368.897/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1600870749359" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1600870526963">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/0.1080.1368.897/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1600870526963" />
+  </component>
+</project>
